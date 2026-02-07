@@ -1,16 +1,34 @@
-## Hi there 👋
+# ✨ Olá, eu sou a Luana Pinheiro! 👋
 
-<!--
-**LuanaPin-Cruz/LuanaPin-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando o 3ºano técnico em Informática
+- 🚀 17 anos
+- 📚 Sempre aprendendo algo novo (programação, tecnologia e inovação)
+- 🧠 Interesse em **IA, desenvolvimento de software e tecnologia aplicada**
+- 🎯 Buscando evoluir sempre!
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://www.linkedin.com/in/luana-pinheiro-20756333a)
+[![Email](luana.pinheiro.cruz@gmail.com)
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-9370DB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-6A5ACD?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-BA55D3?style=for-the-badge&logo=php&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Full Stack](https://img.shields.io/badge/Desenvolvimento_Web_Full--Stack-9932CC?style=for-the-badge&logo=html5&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-6A0DAD?style=for-the-badge&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+---
