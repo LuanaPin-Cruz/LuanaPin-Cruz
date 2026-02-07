@@ -13,8 +13,10 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/luana-pinheiro-20756333a)
-[![Email](luana.pinheiro.cruz@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-pinheiro-20756333a)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luana.pinheiro.cruz@gmail.com)
+
 
 ---
 
