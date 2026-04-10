@@ -17,7 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-pinheiro-20756333a)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luana.pinheiro.cruz@gmail.com)
 
-
 ---
 
 ## 💻 Tecnologias & Ferramentas
@@ -33,4 +32,28 @@
 ![Full Stack](https://img.shields.io/badge/Desenvolvimento_Web_Full--Stack-9932CC?style=for-the-badge&logo=html5&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-6A0DAD?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+---
+
+## 📖 Atualmente Aprendendo
+
+### 🌍 Linguagens
+
+![Inglês](https://img.shields.io/badge/Inglês-6A0DAD?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Italiano](https://img.shields.io/badge/Italiano-8A2BE2?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+### 💻 Programação
+
+![React](https://img.shields.io/badge/React-7B68EE?style=for-the-badge&logo=react&logoColor=white)
+
+---
+
+## 💼 Estágio
+
+🚀 Estou em busca de uma oportunidade de estágio na área de tecnologia.
+
+Sou extremamente dedicada e estou sempre disposta a aprender. Caso seja necessário adquirir novos conhecimentos para a vaga, tenho total comprometimento em correr atrás e evoluir rapidamente.
+
+✨ Tenho muita vontade de crescer profissionalmente e contribuir com a equipe!
+
 ---
