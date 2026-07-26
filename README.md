@@ -5,7 +5,7 @@
 ## 🌱 Sobre mim
 
 - 🎓 Cursando o 3ºano técnico em Informática
-- 🚀 17 anos
+- 🚀 18 anos
 - 📚 Sempre aprendendo algo novo (programação, tecnologia e inovação)
 - 🧠 Interesse em **IA, desenvolvimento de software e tecnologia aplicada**
 - 🎯 Buscando evoluir sempre!
