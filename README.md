@@ -14,7 +14,7 @@
 
 ## Meu Portifólio
 
-[![Portifólio](https://meu-portfolio-topaz-seven.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://meu-portfolio-topaz-seven.vercel.app/)
 
 ---
 ## Conecte-se comigo
